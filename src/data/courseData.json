@@ -1,0 +1,291 @@
+{
+  "course": {
+    "title": "Tailings Specialist Module",
+    "progress": 0,
+    "modules": [
+      {
+        "id": "1",
+        "title": "Instruction",
+        "expanded": true,
+        "type": "module",
+        "children": [
+          {
+            "id": "1.1",
+            "title": "Introduction",
+            "type": "lesson",
+            "lessonType": "video",
+            "duration": "4min",
+            "completed": false,
+            "current": true,
+            "content": {
+              "title": "1.1 Introduction",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+              "description": "Welcome to the Tailings Specialist Module. This introduction provides an overview of what you'll learn in this comprehensive course."
+            }
+          },
+          {
+            "id": "1.2",
+            "title": "Agenda",
+            "type": "lesson",
+            "lessonType": "reading",
+            "duration": "4min",
+            "completed": false,
+            "current": false,
+            "content": {
+              "title": "1.2 Agenda",
+              "description": "Course agenda and learning objectives for the Tailings Specialist Module."
+            }
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Overview of organisational Foundations",
+        "expanded": true,
+        "type": "module",
+        "children": [
+          {
+            "id": "2.1",
+            "title": "Introduction",
+            "type": "lesson",
+            "lessonType": "video",
+            "duration": "4min",
+            "completed": false,
+            "current": false,
+            "content": {
+              "title": "2.1 Introduction",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+              "description": "Introduction to organisational foundations in tailings management."
+            }
+          },
+          {
+            "id": "2.2",
+            "title": "Overview of Organisational Foundations",
+            "type": "lesson",
+            "lessonType": "assignment",
+            "duration": "Assignment",
+            "completed": false,
+            "current": false,
+            "content": {
+              "title": "2.2 Overview of Organisational Foundations",
+              "description": "Complete the assignment on organisational foundations."
+            }
+          },
+          {
+            "id": "2.3",
+            "title": "Foundations Video",
+            "type": "lesson",
+            "lessonType": "assignment",
+            "duration": "Assignment",
+            "completed": false,
+            "current": false,
+            "content": {
+              "title": "2.3 Foundations Video",
+              "description": "Watch and analyze the foundations video content."
+            }
+          },
+          {
+            "id": "2.4",
+            "title": "Introduction to the OF Framework",
+            "type": "submodule",
+            "expanded": false,
+            "children": [
+              {
+                "id": "2.4.1",
+                "title": "Framework Overview",
+                "type": "lesson",
+                "lessonType": "video",
+                "duration": "6min",
+                "completed": false,
+                "current": false,
+                "content": {
+                  "title": "2.4.1 Framework Overview",
+                  "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+                  "description": "Overview of the Organisational Framework methodology."
+                }
+              },
+              {
+                "id": "2.4.2",
+                "title": "Framework Implementation",
+                "type": "lesson",
+                "lessonType": "reading",
+                "duration": "8min",
+                "completed": false,
+                "current": false,
+                "content": {
+                  "title": "2.4.2 Framework Implementation",
+                  "description": "Learn how to implement the OF Framework in your organization."
+                }
+              }
+            ]
+          },
+          {
+            "id": "2.5",
+            "title": "Pillar 1: Setting Direction (Explained)",
+            "type": "lesson",
+            "lessonType": "assignment",
+            "duration": "Assignment",
+            "completed": false,
+            "current": false,
+            "content": {
+              "title": "2.5 Pillar 1: Setting Direction (Explained)",
+              "description": "Understanding the first pillar of the framework."
+            }
+          },
+          {
+            "id": "2.6",
+            "title": "Pillar 2: Organisational Model (Explained)",
+            "type": "lesson",
+            "lessonType": "assignment",
+            "duration": "Assignment",
+            "completed": false,
+            "current": false,
+            "content": {
+              "title": "2.6 Pillar 2: Organisational Model (Explained)",
+              "description": "Deep dive into organisational models and structures."
+            }
+          },
+          {
+            "id": "2.7",
+            "title": "Pillar 3: Processes and Systems (Explained)",
+            "type": "lesson",
+            "lessonType": "assignment",
+            "duration": "Assignment",
+            "completed": false,
+            "current": false,
+            "content": {
+              "title": "2.7 Pillar 3: Processes and Systems (Explained)",
+              "description": "Understanding processes and systems in tailings management."
+            }
+          },
+          {
+            "id": "2.8",
+            "title": "Pillar 4: Enablers (Explained)",
+            "type": "submodule",
+            "expanded": false,
+            "children": [
+              {
+                "id": "2.8.1",
+                "title": "Technology Enablers",
+                "type": "lesson",
+                "lessonType": "video",
+                "duration": "5min",
+                "completed": false,
+                "current": false,
+                "content": {
+                  "title": "2.8.1 Technology Enablers",
+                  "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+                  "description": "Learn about technology enablers for successful implementation."
+                }
+              },
+              {
+                "id": "2.8.2",
+                "title": "Human Resource Enablers",
+                "type": "lesson",
+                "lessonType": "reading",
+                "duration": "7min",
+                "completed": false,
+                "current": false,
+                "content": {
+                  "title": "2.8.2 Human Resource Enablers",
+                  "description": "Understanding the human factors in successful implementation."
+                }
+              },
+              {
+                "id": "2.8.3",
+                "title": "Process Enablers",
+                "type": "submodule",
+                "expanded": false,
+                "children": [
+                  {
+                    "id": "2.8.3.1",
+                    "title": "Process Design",
+                    "type": "lesson",
+                    "lessonType": "assignment",
+                    "duration": "Assignment",
+                    "completed": false,
+                    "current": false,
+                    "content": {
+                      "title": "2.8.3.1 Process Design",
+                      "description": "Design effective processes for your organization."
+                    }
+                  },
+                  {
+                    "id": "2.8.3.2",
+                    "title": "Process Optimization",
+                    "type": "lesson",
+                    "lessonType": "video",
+                    "duration": "9min",
+                    "completed": false,
+                    "current": false,
+                    "content": {
+                      "title": "2.8.3.2 Process Optimization",
+                      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+                      "description": "Learn how to optimize your organizational processes."
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Pillar 1: Setting Direction",
+        "expanded": false,
+        "type": "module",
+        "children": [
+          {
+            "id": "3.1",
+            "title": "Strategic Planning",
+            "type": "lesson",
+            "lessonType": "video",
+            "duration": "6min",
+            "completed": false,
+            "current": false,
+            "content": {
+              "title": "3.1 Strategic Planning",
+              "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+              "description": "Learn about strategic planning in tailings management."
+            }
+          },
+          {
+            "id": "3.2",
+            "title": "Vision and Mission",
+            "type": "submodule",
+            "expanded": false,
+            "children": [
+              {
+                "id": "3.2.1",
+                "title": "Creating Vision Statements",
+                "type": "lesson",
+                "lessonType": "reading",
+                "duration": "5min",
+                "completed": false,
+                "current": false,
+                "content": {
+                  "title": "3.2.1 Creating Vision Statements",
+                  "description": "Learn how to create compelling vision statements."
+                }
+              },
+              {
+                "id": "3.2.2",
+                "title": "Mission Development",
+                "type": "lesson",
+                "lessonType": "assignment",
+                "duration": "Assignment",
+                "completed": false,
+                "current": false,
+                "content": {
+                  "title": "3.2.2 Mission Development",
+                  "description": "Develop effective mission statements for your organization."
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

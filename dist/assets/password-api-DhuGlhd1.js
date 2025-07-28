@@ -1,0 +1,1 @@
+import{b as t}from"./index-oREoqiUU.js";const a="/api/auth/forget_password",r="/api/auth/reset_password",e=t.injectEndpoints({endpoints:o=>({forgotPassword:o.mutation({query:s=>({url:a,method:"POST",body:s})}),resetPassword:o.mutation({query:s=>({url:r,method:"POST",body:s})})})}),{useForgotPasswordMutation:n,useResetPasswordMutation:u}=e;export{u as a,n as u};

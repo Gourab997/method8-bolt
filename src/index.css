@@ -1,0 +1,15 @@
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body,
+#root {
+  height: 100%; /* allow children to reference full height */
+  margin: 0; /* remove default body margin */
+  font-family: "Poppins", sans-serif;
+}

@@ -1,0 +1,1 @@
+import{B as r,j as e}from"./index-oREoqiUU.js";import{r as s}from"./vendor-BBLzNF_7.js";import"./antd-BTTnWTpg.js";const a=()=>{const{setItems:t}=s.useContext(r);return s.useEffect(()=>{t([{title:"Dashboard",href:"/"},{title:"Settings"}])},[t]),e.jsx("div",{children:e.jsx("h1",{children:"Settings"})})};export{a as default};
